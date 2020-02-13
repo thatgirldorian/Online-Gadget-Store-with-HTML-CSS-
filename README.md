@@ -4,4 +4,6 @@ This  project is an online gadget store. I used HTML to lay out all the site ele
 
 Here are some screenshots:
 
+![showcase](https://user-images.githubusercontent.com/40691059/74457247-4ba75e00-4e88-11ea-8c53-549d73a01b02.PNG)
+
 
